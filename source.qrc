@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>959820.jpg</file>
+    <file>Stamp260.png</file>
+    <file>750496.jpg</file>
+    <file>760894.png</file>
+    <file>IA.full.1934053.jpg</file>
+    <file>Stamp61.png</file>
+    <file>Stamp110.png</file>
+    <file>Stamp114.png</file>
+  </qresource>
+</RCC>
